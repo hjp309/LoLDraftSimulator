@@ -1,6 +1,6 @@
 # 🃏 LoLDraftSimulator
 
-**LoLDraftSimulator** is my project to create an Esports Fantasy League game featuring real League of Legends pro players.
+**LoLDraftSimulator** is the unofficial name for this project to create an Esports Fantasy League game featuring real League of Legends pro players.
 
 The core gameplay lets you **collect cards** based on actual esports players and compete against others in **Pick-Ban matches** that mirror the professional scene. Odds and strategies are influenced by player performance, champion pools, past teammates, and more—creating a dynamic and stats-driven fantasy experience.
 
