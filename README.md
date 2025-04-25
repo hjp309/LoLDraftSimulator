@@ -5,6 +5,6 @@ I started this project in November 2024 in an effort to showcase my abilities as
 <b>[ROADMAP](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4)</b>
 
 <b>DEVLOGS</b>
-[#1](https://resonant-moonstone-796.notion.site/LoLDraftSimulator-Log-1-Catchup-1d09f96c2cf780c4bd2cc54e7f186dd9)
-
+<p>[#1](https://resonant-moonstone-796.notion.site/LoLDraftSimulator-Log-1-Catchup-1d09f96c2cf780c4bd2cc54e7f186dd9)
+</p>
 Thank you for coming and I hope to see you again soon with more updates!
