@@ -2,6 +2,9 @@ LoLDraftSimulator is my attempt to build an Esports Fantasy League game using pl
 
 I started this project in November 2024 in an effort to showcase my abilities as a software engineer/game developer and the lessons I learn as I go. Currently, I am in the middle of fixing my data scraper tools to build a strong dataset for cards. 
 
-You can find my most updated roadmap [here](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4). 
+<b>[ROADMAP](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4)</b>
+
+<b>DEVLOGS</b>
+[#1](https://resonant-moonstone-796.notion.site/LoLDraftSimulator-Log-1-Catchup-1d09f96c2cf780c4bd2cc54e7f186dd9)
 
 Thank you for coming and I hope to see you again soon with more updates!
