@@ -18,14 +18,13 @@ I’m currently focused on improving my data scraper tools to build a robust dat
 
 ## 🗺️ Roadmap
 
-- View the full, up-to-date roadmap on [Notion](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4).
+- View my current, up-to-date roadmap on [Notion](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4).
 
 ---
 
 ## 🛠️ Current Progress
 
-> _Stay tuned! Demo coming soon._  
-> _(Or, you can add a demo section here with images or a video link if you have one)_
+> _More Updates to come._  
 
 ---
 
