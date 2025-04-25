@@ -14,4 +14,6 @@ I started this project in November 2024 in an effort to showcase my abilities as
 <br>
 https://www.youtube.com/embed/UlXv9V27_ng?rel=0
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UlXv9V27_ng/0.jpg)](https://www.youtube.com/watch?v=UlXv9V27_ng)
+
 Thank you for coming and I hope to see you again soon with more updates!
