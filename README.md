@@ -1,17 +1,37 @@
-LoLDraftSimulator is my attempt to build an Esports Fantasy League game using players from League of Legends. The objective is to collect cards based on real esports players and compete against others in Pick-Ban matches similar to the professional scene. Odds favor card compositions that best align with the player's individual performances and synergies with their best champions, past teammates, etc. 
+# 🃏 LoLDraftSimulator
 
-I started this project in November 2024 in an effort to showcase my abilities as a software engineer/game developer and the lessons I learn as I go. Currently, I am in the middle of fixing my data scraper tools to build a strong dataset for cards. 
+**LoLDraftSimulator** is my project to create an Esports Fantasy League game featuring real League of Legends pro players.
 
-<b>ROADMAP</b>
-<br>
-[Here](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4)
+The core gameplay lets you **collect cards** based on actual esports players and compete against others in **Pick-Ban matches** that mirror the professional scene. Odds and strategies are influenced by player performance, champion pools, past teammates, and more—creating a dynamic and stats-driven fantasy experience.
 
-<b>DEVLOGS</b>
-<br>
-[#1](https://resonant-moonstone-796.notion.site/LoLDraftSimulator-Log-1-Catchup-1d09f96c2cf780c4bd2cc54e7f186dd9)
+---
 
-<b>What I have so far</b>
-<br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UlXv9V27_ng/0.jpg)](https://www.youtube.com/watch?v=UlXv9V27_ng)
+## 🚀 Project Motivation
 
-Thank you for coming and I hope to see you again soon with more updates!
+Started in **November 2024** as a way to:
+- Showcase my skills as a **software engineer** and **game developer**
+- Learn and document new lessons along the way
+
+I’m currently focused on improving my data scraper tools to build a robust dataset for player cards.
+
+---
+
+## 🗺️ Roadmap
+
+- View the full, up-to-date roadmap on [Notion](https://www.notion.so/LoLDraftSimulator-Roadmap-1de9f96c2cf7806e8635f00224dfcae4?pvs=4).
+
+---
+
+## 🛠️ Current Progress
+
+> _Stay tuned! Demo coming soon._  
+> _(Or, you can add a demo section here with images or a video link if you have one)_
+
+---
+
+## 🙏 Thanks for Visiting!
+
+Thanks for stopping by!  
+Check back for more updates and progress on **LoLDraftSimulator**.
+
+---
